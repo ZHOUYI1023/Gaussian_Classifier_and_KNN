@@ -1,1 +1,1 @@
-# Gaussian_Classifier_and_KNN
+# EEEM007 Coursework
